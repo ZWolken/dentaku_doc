@@ -1,3 +1,7 @@
+- Official Casio Calculators Manual Download Site: [Newest Link](https://world.casio.com/manual/calc/) or [Old Link](https://world.casio.com/support/manual/calculators/)
+
+- Official Canon Calculators Manual Download Site: [Link](https://ij.manual.canon/cal/webmanual/WebPortal/html/ptl-region.html)
+
 ### **I do not own the copyright to any of the documents in this repository.**
 ### **Je ne possède aucun droit d'auteur sur les documents contenus dans ce répertoire.**
 
