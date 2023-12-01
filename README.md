@@ -1,9 +1,10 @@
+### **This repository is only an archive, I do not own the copyright to any of the documents in this repository.**
+### **Ce répertoire n'est qu'une archive, je ne possède aucun droit d'auteur sur les documents contenus dans ce répertoire.**
+### **仅用于存档目的，请勿引用自本地址，若有阅读使用需要请从官方地址下载。**
+
 - Official Casio Calculators Manual Download Site: [Newest Link](https://world.casio.com/manual/calc/) or [Old Link](https://world.casio.com/support/manual/calculators/)
 
 - Official Canon Calculators Manual Download Site: [Link](https://ij.manual.canon/cal/webmanual/WebPortal/html/ptl-region.html)
-
-### **I do not own the copyright to any of the documents in this repository.**
-### **Je ne possède aucun droit d'auteur sur les documents contenus dans ce répertoire.**
 
 ## Aimed at collecting (un)official  calculator documentation, especially from Casio Computer Co., Ltd.
 
